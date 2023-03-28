@@ -132,6 +132,7 @@ ul {
     padding: 0.16vw 0.16vw 1vw 0.8vw;
 }
 .hr-dashed {
+    border: 0vw;
     border-top: 0.1vw dashed rgb(124, 122, 122);
     width: 80%;
     margin: 1vw 1vw 0.3vw 1vw;
@@ -204,6 +205,7 @@ ul {
 }
 
 .hr-solid {
+    border: 0vw;
     margin: 0.21vw 0.9vw 0.7vw 1vw;
     border-top: 0.2vw solid rgb(206, 202, 202);
 }
@@ -268,6 +270,7 @@ ul {
     color: rgb(167, 160, 160);
 }
 .title > hr {
+    border: 0vw;
     width: 115%;
     margin: 0.6vw 0vw 0.7vw 0vw;
     border-top: 0.1vw solid rgb(158, 157, 157);
@@ -307,6 +310,7 @@ h3 {
     font-weight: 500;
 }
 .profile > .hr-dashed {
+    border: 0vw;
     border-top: 0.1vw dashed rgb(124, 122, 122);
     width: 80%;
     margin: 0.6vw 1vw 0.3vw 1vw;
